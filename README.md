@@ -1,6 +1,6 @@
 This does not contain the original README, refer to main branch.
 
-Changes
+PR Changes
  - [Together AI Support](https://github.com/kolbytn/mindcraft/pull/468)
  - [Mounting Support](https://github.com/kolbytn/mindcraft/pull/464)
  - [Player's Speech to Chat](https://github.com/kolbytn/mindcraft/pull/455)
@@ -9,3 +9,6 @@ Changes
  - [AI Vision](https://github.com/kolbytn/mindcraft/pull/413)
  - [Dig down Action](https://github.com/kolbytn/mindcraft/pull/414)
  - [Auto MC Version](https://github.com/kolbytn/mindcraft/pull/321)
+
+Custom Changes
+ - 
