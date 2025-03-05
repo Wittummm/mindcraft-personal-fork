@@ -12,3 +12,7 @@ PR Changes
 
 Custom Changes
  - 
+
+Features
+- Simple Bot TTS (Says what bot chats)
+- Player's speech to text (Listens to player's speech)
